@@ -1,4 +1,4 @@
-# Gaussian/Median Noise FIltering with OpenCV
+# Gaussian/Median Noise Filtering with OpenCV
 ## Overview
 This script demonstrates various image processing techniques in Python using OpenCV and Matplotlib within Google Colab. It includes image upload, noise addition, and various filtering methods.
 
